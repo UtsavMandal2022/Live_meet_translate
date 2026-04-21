@@ -76,7 +76,3 @@ python main.py --chunk-duration 3
 ## Expected latency
 
 ~10 seconds from speech to translation (5s chunk + ~5s processing on Apple Silicon with `medium` model).
-
-## License
-
-MIT
