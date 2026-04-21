@@ -1,4 +1,4 @@
-# Whisper Meet Translate
+# Live Meet Translate
 
 Real-time Japanese-to-English translation for Google Meet calls, powered by OpenAI's [Whisper](https://github.com/openai/whisper) running locally on your machine.
 
